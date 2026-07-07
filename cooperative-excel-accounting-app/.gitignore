@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# 자동 생성 백업 (폴더는 유지, 백업 파일은 커밋 제외)
+backups/*.xlsx
+
+# 엑셀 임시 잠금 파일
+~$*.xlsx

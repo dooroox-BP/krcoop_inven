@@ -1,0 +1,7 @@
+streamlit
+pandas
+openpyxl
+python-dateutil
+
+# 개발/테스트용 (선택)
+# pytest
